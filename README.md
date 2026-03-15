@@ -112,10 +112,26 @@ Create a **dashboard in Excel** to visualize key metrics:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](assets/dashboard.png)
+![Dashboard Preview](Dashboard/Covid_dash.gif)
 
 ---
+### **Geographic Impact & Deaths**
 
+* **Regional Dominance:** **Europe** has the highest share of global deaths at **30%**, followed by **North America (24%)** and **Asia (22%)**.
+* **Lowest Impact:** **Africa** accounts for the smallest portion of deaths at only **4%**.
+* **Case Concentration:** While the **USA** leads in raw numbers (cases and recoveries), smaller nations like **Brunei** and **San Marino** have the highest population infection percentages, both reaching **77%**.
+
+### **Testing & Recovery Trends**
+
+* **Testing Leaders:** The **USA** has conducted the highest number of tests (surpassing 1.1 billion), followed by **India**.
+* **Recovery Champions:** The **USA** also shows the highest number of recovered cases, totaling over **109 million**, followed by **France** and **Germany**.
+* **Correlation:** There is a clear visual correlation between the countries doing the most testing (USA, India) and those reporting the highest number of cases.
+
+### **Data Distribution**
+
+* **Global Spread:** The "Distribution of Cases" map shows that while the virus is present globally, the highest intensity of cases is concentrated in the **North American** and **South Asian** regions.
+* **Mortality vs. Cases:** In the "Most Cases" comparison, **India** shows a lower death-to-case ratio visually compared to the **USA**, despite both having high case volumes.
+---
 ## 🔗 Data Source
 
 * [disease.sh API](https://disease.sh/)
